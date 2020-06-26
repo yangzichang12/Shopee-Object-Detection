@@ -1,5 +1,5 @@
 # Shopee-Object-Detection
-Experimental Object Detection for Shopee Code League powered by Tensorflow
+Experimental Object Detection for Shopee Code League powered by TensorFlow
 
 Data Given and following Procedure:
 The Data given are labelled images that are not centred and has multiple items on the same image. They come in pre-labelled folders that are formatted to work with flow_from_direcctory. As a result, the data is pre-split into training and testing data.
